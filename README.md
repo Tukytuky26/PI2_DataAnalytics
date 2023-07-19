@@ -23,4 +23,4 @@ En este proyecto se va a explorar y examinar los datos relacionados a telecomuni
 # **Análisis**
 
 Primero analicé de manera general algunos 
-![image](images/db1.PNG.jpg)
+![image](images/db1.PNG)
