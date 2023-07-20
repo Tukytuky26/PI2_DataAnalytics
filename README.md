@@ -32,13 +32,13 @@ Los accesos por hogares nos indican que tan bien esta funcionando el acceso a in
 ![image](images/db1.PNG)
 
 
-Despues, analizaremos nuestro siguiente KPI, siendo el elegido los _`ingresos de las tecnologías ($)`_ que se ofrecen, para deducir si es bueno invertir en alguna de ellas.
+Despues, analizaremos nuestro siguiente KPI, siendo el elegido los _`La tasa de crecimiento de los ingresos`_ que se ofrecen, para deducir si es bueno invertir en alguna de ellas.
 Mi KPI tiene una meta, si los ingresos de las tecnologías  Telefono fijo y Televisión porsuscripción (sumadas), tiene mayor ingreso que la variable de Acceso internet, se pasa al siguiente KPI, el cual es, analizar las tenológias por provincias para mejorar la infraestructura.
 Coloqué los accesos por tecnologías,para relacionar los comportamientos relacionados _`TV por suscripción - Cable modem`_ y _`Telefono fijo`_ - ADSL, ya que, los accesos de internet dependen de ellos. 
 
 ![image](images/db2.PNG)
 
-Para finalizar, mi útimo KPI es las localidade en total por provincia que tienen acceso a telecomunicaciones, prinipalmente, a acceso de internet.
+Para finalizar, mi útimo KPI es las localidades en total por provincia que tienen acceso a telecomunicaciones, prinipalmente, a acceso de internet.
 En el mapa se muestran las provincias y cuantas localidades tienen acceso a telecomunicaciones, cuando pasas el cursor, te muestra un diagrama de la distribución por tecnología, sin embargo para mejorar la infraestructura, nos debemos de centrar en las provincias con menos localidades con acceso de internet, 
 y despues, analizar cuales son las mas bajas y más altas.
 
