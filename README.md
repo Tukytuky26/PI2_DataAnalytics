@@ -50,8 +50,8 @@ _`Note: En el dashboard se encuentran algunas  relaciones de telecomunicaciones 
 
 # **Datos**
 
-* Melina Arroyo
+* Estudiante de Henry:Melina Arroyo
 
-* Estudiante de Henry
+* Email: melinarcis@gmail.com
 
-* melinarcis@gmail.com
+* LinkedIn: www.linkedin.com/in/melina-arroyo-cisneros26
